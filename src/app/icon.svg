@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none">
+  <defs>
+    <linearGradient id="revenuedesk-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="8" fill="url(#revenuedesk-grad)"/>
+  <!-- Bold Modern R -->
+  <path d="M9 7h7.5c2.5 0 4.5 1.5 4.5 4s-2 4-4.5 4H13.5v8H9V7zm4.5 5.2h2.8c1 0 1.8-.6 1.8-1.6s-.8-1.6-1.8-1.6H13.5v3.2z" fill="#ffffff"/>
+  <path d="M15 15l4.8 8h4.2l-5.2-8.2c-.3.1-.6.2-.9.2h-2.9z" fill="#a5f3fc"/>
+</svg>
